@@ -15,8 +15,14 @@ add_executable(meow ${PROJECT_SOURCE_DIR}/src/Week-1/Lecture/meow.c)
 add_executable(calculator ${PROJECT_SOURCE_DIR}/src/Week-1/Lecture/calculator.c)
 add_executable(mario ${PROJECT_SOURCE_DIR}/src/Week-1/Lecture/mario.c)
 
+add_executable(contacts ${PROJECT_SOURCE_DIR}/src/Week-1/Section/contacts.c)
+add_executable(pyramid ${PROJECT_SOURCE_DIR}/src/Week-1/Section/pyramid.c)
+
 target_link_libraries(name cs50)
 target_link_libraries(compare cs50)
 target_link_libraries(agree cs50)
 target_link_libraries(calculator cs50)
 target_link_libraries(mario cs50)
+
+target_link_libraries(contacts cs50)
+target_link_libraries(pyramid cs50)
