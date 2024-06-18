@@ -18,6 +18,13 @@ add_executable(mario ${PROJECT_SOURCE_DIR}/src/Week-1/Lecture/mario.c)
 add_executable(contacts ${PROJECT_SOURCE_DIR}/src/Week-1/Section/contacts.c)
 add_executable(pyramid ${PROJECT_SOURCE_DIR}/src/Week-1/Section/pyramid.c)
 
+add_executable(helloworld ${PROJECT_SOURCE_DIR}/src/Week-1/ProblemSet-1/helloworld.c)
+add_executable(helloitsme ${PROJECT_SOURCE_DIR}/src/Week-1/ProblemSet-1/helloitsme.c)
+add_executable(mario-less ${PROJECT_SOURCE_DIR}/src/Week-1/ProblemSet-1/mario-less.c)
+add_executable(mario-more ${PROJECT_SOURCE_DIR}/src/Week-1/ProblemSet-1/mario-more.c)
+add_executable(cash ${PROJECT_SOURCE_DIR}/src/Week-1/ProblemSet-1/cash.c)
+add_executable(credit ${PROJECT_SOURCE_DIR}/src/Week-1/ProblemSet-1/credit.c)
+
 target_link_libraries(name cs50)
 target_link_libraries(compare cs50)
 target_link_libraries(agree cs50)
@@ -26,3 +33,9 @@ target_link_libraries(mario cs50)
 
 target_link_libraries(contacts cs50)
 target_link_libraries(pyramid cs50)
+
+target_link_libraries(helloitsme cs50)
+target_link_libraries(mario-less cs50)
+target_link_libraries(mario-more cs50)
+target_link_libraries(cash cs50)
+target_link_libraries(credit cs50)
