@@ -13,7 +13,7 @@
     - [x] [Credit](https://cs50.harvard.edu/x/2024/psets/1/credit/)
 
 ## [Week 2 - Arrays](https://cs50.harvard.edu/x/2024/weeks/2/)
-- [ ] [Lecture 2](https://video.cs50.io/4vU4aEFmTSo)
+- [x] [Lecture 2](https://video.cs50.io/4vU4aEFmTSo)
 - [ ] [Section](https://video.cs50.io/tnbPMzwSN7A)
 - [ ] Shorts
 - [ ] [Problem Set 2](https://cs50.harvard.edu/x/2024/psets/2/)
@@ -62,7 +62,7 @@
     - [ ] [Credit](https://cs50.harvard.edu/x/2024/psets/6/credit/)
     - [ ] [DNA](https://cs50.harvard.edu/x/2024/psets/6/dna/)
 
-### Week 6.5 - Artificial Intelligence
+### [Week 6.5 - Artificial Intelligence]()
 - [ ] [Lecture 6.5](https://video.cs50.io/placeholder)
 
 ## [Week 7 - SQL](https://cs50.harvard.edu/x/2024/weeks/7/)

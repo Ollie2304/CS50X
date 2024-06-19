@@ -25,6 +25,11 @@ add_executable(mario-more ${PROJECT_SOURCE_DIR}/src/Week-1/ProblemSet-1/mario-mo
 add_executable(cash ${PROJECT_SOURCE_DIR}/src/Week-1/ProblemSet-1/cash.c)
 add_executable(credit ${PROJECT_SOURCE_DIR}/src/Week-1/ProblemSet-1/credit.c)
 
+add_executable(scores ${PROJECT_SOURCE_DIR}/src/Week-2/Lecture/scores.c)
+add_executable(length ${PROJECT_SOURCE_DIR}/src/Week-2/Lecture/length.c)
+add_executable(string ${PROJECT_SOURCE_DIR}/src/Week-2/Lecture/string.c)
+add_executable(uppercase ${PROJECT_SOURCE_DIR}/src/Week-2/Lecture/uppercase.c)
+
 target_link_libraries(name cs50)
 target_link_libraries(compare cs50)
 target_link_libraries(agree cs50)
@@ -39,3 +44,8 @@ target_link_libraries(mario-less cs50)
 target_link_libraries(mario-more cs50)
 target_link_libraries(cash cs50)
 target_link_libraries(credit cs50)
+
+target_link_libraries(scores cs50)
+target_link_libraries(length cs50)
+target_link_libraries(string cs50)
+target_link_libraries(uppercase cs50)
