@@ -30,6 +30,9 @@ add_executable(length ${PROJECT_SOURCE_DIR}/src/Week-2/Lecture/length.c)
 add_executable(string ${PROJECT_SOURCE_DIR}/src/Week-2/Lecture/string.c)
 add_executable(uppercase ${PROJECT_SOURCE_DIR}/src/Week-2/Lecture/uppercase.c)
 
+add_executable(double ${PROJECT_SOURCE_DIR}/src/Week-2/Section/double.c)
+add_executable(alphabetical ${PROJECT_SOURCE_DIR}/src/Week-2/Section/alphabetical.c)
+
 target_link_libraries(name cs50)
 target_link_libraries(compare cs50)
 target_link_libraries(agree cs50)
@@ -49,3 +52,6 @@ target_link_libraries(scores cs50)
 target_link_libraries(length cs50)
 target_link_libraries(string cs50)
 target_link_libraries(uppercase cs50)
+
+target_link_libraries(double cs50)
+target_link_libraries(alphabetical cs50)
