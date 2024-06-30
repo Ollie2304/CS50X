@@ -15,7 +15,7 @@
 ## [Week 2 - Arrays](https://cs50.harvard.edu/x/2024/weeks/2/)
 - [x] [Lecture 2](https://video.cs50.io/4vU4aEFmTSo)
 - [x] [Section](https://video.cs50.io/tnbPMzwSN7A)
-- [ ] Shorts
+- [X] Shorts
 - [ ] [Problem Set 2](https://cs50.harvard.edu/x/2024/psets/2/)
     - [ ] [Scrabble](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
     - [ ] [Readability](https://cs50.harvard.edu/x/2024/psets/2/readability/)
