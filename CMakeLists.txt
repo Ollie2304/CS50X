@@ -30,22 +30,24 @@ set(
         triangle
 )
 
-foreach (source IN LISTS SOURCES)
-    if (EXISTS "${PROJECT_SOURCE_DIR}/src/Week-1/Lecture/${source}.c")
-        add_executable(${source} ${PROJECT_SOURCE_DIR}/src/Week-1/Lecture/${source}.c)
-    elseif (EXISTS "${PROJECT_SOURCE_DIR}/src/Week-1/Section/${source}.c")
-        add_executable(${source} ${PROJECT_SOURCE_DIR}/src/Week-1/Section/${source}.c)
-    elseif (EXISTS "${PROJECT_SOURCE_DIR}/src/Week-1/ProblemSet-1/${source}.c")
-        add_executable(${source} ${PROJECT_SOURCE_DIR}/src/Week-1/ProblemSet-1/${source}.c)
-    elseif (EXISTS "${PROJECT_SOURCE_DIR}/src/Week-2/Lecture/${source}.c")
-        add_executable(${source} ${PROJECT_SOURCE_DIR}/src/Week-2/Lecture/${source}.c)
-    elseif (EXISTS "${PROJECT_SOURCE_DIR}/src/Week-2/Section/${source}.c")
-        add_executable(${source} ${PROJECT_SOURCE_DIR}/src/Week-2/Section/${source}.c)
-    elseif (EXISTS "${PROJECT_SOURCE_DIR}/src/Week-2/Shorts/${source}.c")
-        add_executable(${source} ${PROJECT_SOURCE_DIR}/src/Week-2/Shorts/${source}.c)
-    endif ()
+set(
+        WEEKS
+        "Week-1/Lecture"
+        "Week-1/Section"
+        "Week-1/ProblemSet-1"
+        "Week-2/Lecture"
+        "Week-2/Section"
+        "Week-2/Shorts"
+)
 
-    if (TARGET ${source})
-        target_link_libraries(${source} cs50)
-    endif ()
+foreach (source IN LISTS SOURCES)
+    foreach (week IN LISTS WEEKS)
+        if (EXISTS "${PROJECT_SOURCE_DIR}/src/${week}/${source}.c")
+            add_executable(${source} ${PROJECT_SOURCE_DIR}/src/${week}/${source}.c)
+            if (TARGET ${source})
+                target_link_libraries(${source} cs50)
+            endif ()
+            break()
+        endif ()
+    endforeach ()
 endforeach ()
