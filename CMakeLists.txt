@@ -33,6 +33,8 @@ add_executable(uppercase ${PROJECT_SOURCE_DIR}/src/Week-2/Lecture/uppercase.c)
 add_executable(double ${PROJECT_SOURCE_DIR}/src/Week-2/Section/double.c)
 add_executable(alphabetical ${PROJECT_SOURCE_DIR}/src/Week-2/Section/alphabetical.c)
 
+add_executable(triangle ${PROJECT_SOURCE_DIR}/src/Week-2/Shorts/triangle.c)
+
 target_link_libraries(name cs50)
 target_link_libraries(compare cs50)
 target_link_libraries(agree cs50)
@@ -55,3 +57,5 @@ target_link_libraries(uppercase cs50)
 
 target_link_libraries(double cs50)
 target_link_libraries(alphabetical cs50)
+
+target_link_libraries(triangle cs50)
