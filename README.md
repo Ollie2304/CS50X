@@ -18,7 +18,7 @@
 - [X] Shorts
 - [ ] [Problem Set 2](https://cs50.harvard.edu/x/2024/psets/2/)
     - [X] [Scrabble](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
-    - [ ] [Readability](https://cs50.harvard.edu/x/2024/psets/2/readability/)
+    - [X] [Readability](https://cs50.harvard.edu/x/2024/psets/2/readability/)
     - [ ] [Caesar](https://cs50.harvard.edu/x/2024/psets/2/caesar/)
     - [ ] [Substitution](https://cs50.harvard.edu/x/2024/psets/2/substitution/)
 
