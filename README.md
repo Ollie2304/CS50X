@@ -16,11 +16,11 @@
 - [x] [Lecture 2](https://video.cs50.io/4vU4aEFmTSo)
 - [x] [Section](https://video.cs50.io/tnbPMzwSN7A)
 - [X] Shorts
-- [ ] [Problem Set 2](https://cs50.harvard.edu/x/2024/psets/2/)
+- [X] [Problem Set 2](https://cs50.harvard.edu/x/2024/psets/2/)
     - [X] [Scrabble](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
     - [X] [Readability](https://cs50.harvard.edu/x/2024/psets/2/readability/)
-    - [ ] [Caesar](https://cs50.harvard.edu/x/2024/psets/2/caesar/)
-    - [ ] [Substitution](https://cs50.harvard.edu/x/2024/psets/2/substitution/)
+    - [X] [Caesar](https://cs50.harvard.edu/x/2024/psets/2/caesar/)
+    - [X] [Substitution](https://cs50.harvard.edu/x/2024/psets/2/substitution/)
 
 ## [Week 3 - Algorithms](https://cs50.harvard.edu/x/2024/weeks/3/)
 - [ ] [Lecture 3](https://video.cs50.io/placeholder)
