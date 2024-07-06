@@ -21,11 +21,11 @@ int main(void) {
 
   // print the winner
   if (playerOneScore > playerTwoScore)
-    printf("Player One Wins!");
+    printf("Player 1 wins!\n");
   else if (playerTwoScore > playerOneScore)
-    printf("Player Two Wins!");
+    printf("Player 2 wins!\n");
   else
-    printf("Tie!");
+    printf("Tie!\n");
 }
 
 // func to calculate score
