@@ -25,7 +25,7 @@
 ## [Week 3 - Algorithms](https://cs50.harvard.edu/x/2024/weeks/3/)
 - [X] [Lecture 3](https://video.cs50.io/jZzyERW7h1A?screen=Mxgh1eRQVCU)
 - [X] [Section](https://video.cs50.io/DdaRHPGhe-E)
-- [ ] Shorts
+- [X] Shorts
 - [ ] [Problem Set 3](https://cs50.harvard.edu/x/2024/psets/3/)
     - [ ] [Sort](https://cs50.harvard.edu/x/2024/psets/3/sort/)
     - [ ] [Plurality](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
