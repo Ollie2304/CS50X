@@ -1,0 +1,47 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It's not slow sorting a sorted list in comparison to sort3 but it's not as fast as sort2
+
+random5000 0.065s
+random10000 0.197s
+random50000 5.632s
+
+reversed5000 0.071s
+reversed10000 0.258s
+reversed50000 4.808s
+
+sorted5000 0.025s
+sorted10000 0.110s
+sorted50000 0.416
+
+sort2 uses: Merge Sort
+
+How do you know?: It is the fastest one when using a list of random numbers.
+
+random5000 0.032s
+random10000 0.83s
+random50000 0.438s
+
+reversed5000 0.027s
+reversed10000 0.070s
+reversed50000 0.416s
+
+sorted5000 0.033s
+sorted10000 0.059s
+sorted50000 0.548s
+
+sort3 uses: Selection Sort
+
+How do you know?: When going through a sorted list it takes the longest in comparison to the others.
+
+random5000 0.049s
+random10000 0.176s
+random50000 2.296s
+
+reversed5000 0.049s
+reversed10000 0.151s
+reversed50000 2.557s
+
+sorted5000 0.054s
+sorted10000 0.127s
+sorted50000 2.207s
