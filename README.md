@@ -26,10 +26,10 @@
 - [X] [Lecture 3](https://video.cs50.io/jZzyERW7h1A?screen=Mxgh1eRQVCU)
 - [X] [Section](https://video.cs50.io/DdaRHPGhe-E)
 - [X] Shorts
-- [ ] [Problem Set 3](https://cs50.harvard.edu/x/2024/psets/3/)
-    - [ ] [Sort](https://cs50.harvard.edu/x/2024/psets/3/sort/)
-    - [ ] [Plurality](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
-    - [ ] [Runoff](https://cs50.harvard.edu/x/2024/psets/3/runoff/)
+- [X] [Problem Set 3](https://cs50.harvard.edu/x/2024/psets/3/)
+    - [X] [Sort](https://cs50.harvard.edu/x/2024/psets/3/sort/)
+    - [X] [Plurality](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
+    - [X] [Runoff](https://cs50.harvard.edu/x/2024/psets/3/runoff/)
     - [ ] [Tideman](https://cs50.harvard.edu/x/2024/psets/3/tideman/)
 
 ## [Week 4 - Memory](https://cs50.harvard.edu/x/2024/weeks/4/)
