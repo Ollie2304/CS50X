@@ -1,97 +1,97 @@
 # CS50X - 2024
 
-## [Week 1 - C](https://cs50.harvard.edu/x/2024/weeks/1/)
-- [x] [Lecture 1](https://video.cs50.io/cwtpLIWylAw)
-- [x] [Section](https://video.cs50.io/Tw2-No1J5j0)
+## Week 1 - C
+- [x] Lecture 1
+- [x] Section
 - [x] Shorts
-- [x] [Problem Set 1](https://cs50.harvard.edu/x/2024/psets/1/)
-    - [x] [Hello, World](https://cs50.harvard.edu/x/2024/psets/1/world/)
-    - [x] [Hello, It's Me](https://cs50.harvard.edu/x/2024/psets/1/me/)
-    - [x] [Mario Less](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
-    - [x] [Mario More](https://cs50.harvard.edu/x/2024/psets/1/mario/more/)
-    - [x] [Cash](https://cs50.harvard.edu/x/2024/psets/1/cash/)
-    - [x] [Credit](https://cs50.harvard.edu/x/2024/psets/1/credit/)
+- [x] Problem Set 1
+    - [x] Hello, World
+    - [x] Hello, It's Me
+    - [x] Mario Less
+    - [x] Mario More
+    - [x] Cash
+    - [x] Credit
 
-## [Week 2 - Arrays](https://cs50.harvard.edu/x/2024/weeks/2/)
-- [x] [Lecture 2](https://video.cs50.io/4vU4aEFmTSo)
-- [x] [Section](https://video.cs50.io/tnbPMzwSN7A)
+## Week 2 - Arrays
+- [x] Lecture 2
+- [x] Section
 - [X] Shorts
-- [X] [Problem Set 2](https://cs50.harvard.edu/x/2024/psets/2/)
-    - [X] [Scrabble](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
-    - [X] [Readability](https://cs50.harvard.edu/x/2024/psets/2/readability/)
-    - [X] [Caesar](https://cs50.harvard.edu/x/2024/psets/2/caesar/)
-    - [X] [Substitution](https://cs50.harvard.edu/x/2024/psets/2/substitution/)
+- [X] Problem Set 2
+    - [X] Scrabble
+    - [X] Readability
+    - [X] Caesar
+    - [X] Substitution
 
-## [Week 3 - Algorithms](https://cs50.harvard.edu/x/2024/weeks/3/)
-- [X] [Lecture 3](https://video.cs50.io/jZzyERW7h1A?screen=Mxgh1eRQVCU)
-- [X] [Section](https://video.cs50.io/DdaRHPGhe-E)
+## Week 3 - Algorithms
+- [X] Lecture 3
+- [X] Section
 - [X] Shorts
-- [X] [Problem Set 3](https://cs50.harvard.edu/x/2024/psets/3/)
-    - [X] [Sort](https://cs50.harvard.edu/x/2024/psets/3/sort/)
-    - [X] [Plurality](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
-    - [X] [Runoff](https://cs50.harvard.edu/x/2024/psets/3/runoff/)
-    - [ ] [Tideman](https://cs50.harvard.edu/x/2024/psets/3/tideman/)
+- [X] Problem Set 3
+    - [X] Sort
+    - [X] Plurality
+    - [X] Runoff
+    - [ ] Tideman
 
-## [Week 4 - Memory](https://cs50.harvard.edu/x/2024/weeks/4/)
-- [ ] [Lecture 4](https://video.cs50.io/placeholder)
-- [ ] [Section](https://video.cs50.io/placeholder)
+## Week 4 - Memory
+- [x] Lecture 4
+- [ ] Section
 - [ ] Shorts
-- [ ] [Problem Set 4](https://cs50.harvard.edu/x/2024/psets/4/)
-    - [ ] [Volume](https://cs50.harvard.edu/x/2024/psets/4/volume/)
-    - [ ] [Filter Less](https://cs50.harvard.edu/x/2024/psets/4/filter/less/)
-    - [ ] [Filter More](https://cs50.harvard.edu/x/2024/psets/4/filter/more/)
-    - [ ] [Recover](https://cs50.harvard.edu/x/2024/psets/4/recover/)
+- [ ] Problem Set 4
+    - [ ] Volume
+    - [ ] Filter Less
+    - [ ] Filter More
+    - [ ] Recover
 
-## [Week 5 - Data Structures](https://cs50.harvard.edu/x/2024/weeks/5/)
-- [ ] [Lecture 5](https://video.cs50.io/placeholder)
-- [ ] [Section](https://video.cs50.io/placeholder)
+## Week 5 - Data Structures
+- [ ] Lecture 5
+- [ ] Section
 - [ ] Shorts
-- [ ] [Problem Set 5](https://cs50.harvard.edu/x/2024/psets/5/)
-    - [ ] [Inheritance](https://cs50.harvard.edu/x/2024/psets/5/inheritance/)
-    - [ ] [Speller](https://cs50.harvard.edu/x/2024/psets/5/speller/)
+- [ ] Problem Set 5
+    - [ ] Inheritance
+    - [ ] Speller
 
-## [Week 6 - Python](https://cs50.harvard.edu/x/2024/weeks/6/)
-- [ ] [Lecture 6](https://video.cs50.io/placeholder)
-- [ ] [Section](https://video.cs50.io/placeholder)
+## Week 6 - Python
+- [ ] Lecture 6
+- [ ] Section
 - [ ] Shorts
-- [ ] [Problem Set 6](https://cs50.harvard.edu/x/2024/psets/6/)
-    - [ ] [Hello](https://cs50.harvard.edu/x/2024/psets/6/hello/)
-    - [ ] [Mario Less](https://cs50.harvard.edu/x/2024/psets/6/mario/less/)
-    - [ ] [Mario More](https://cs50.harvard.edu/x/2024/psets/6/mario/more/)
-    - [ ] [Cash](https://cs50.harvard.edu/x/2024/psets/6/cash/)
-    - [ ] [Credit](https://cs50.harvard.edu/x/2024/psets/6/credit/)
-    - [ ] [DNA](https://cs50.harvard.edu/x/2024/psets/6/dna/)
+- [ ] Problem Set 6
+    - [ ] Hello
+    - [ ] Mario Less
+    - [ ] Mario More
+    - [ ] Cash
+    - [ ] Credit
+    - [ ] DNA
 
-### [Week 6.5 - Artificial Intelligence]()
-- [ ] [Lecture 6.5](https://video.cs50.io/placeholder)
+### Week 6.5 - Artificial Intelligence
+- [ ] Lecture 6.5
 
-## [Week 7 - SQL](https://cs50.harvard.edu/x/2024/weeks/7/)
-- [ ] [Lecture 7](https://video.cs50.io/placeholder)
-- [ ] [Section](https://video.cs50.io/placeholder)
+## Week 7 - SQL
+- [ ] Lecture 7
+- [ ] Section
 - [ ] Shorts
-- [ ] [Problem Set 7](https://cs50.harvard.edu/x/2024/psets/7/)
-    - [ ] [Songs](https://cs50.harvard.edu/x/2024/psets/7/songs/)
-    - [ ] [Movies](https://cs50.harvard.edu/x/2024/psets/7/movies/)
-    - [ ] [Fiftyville](https://cs50.harvard.edu/x/2024/psets/7/fiftyville/)
+- [ ] Problem Set 7
+    - [ ] Songs
+    - [ ] Movies
+    - [ ] Fiftyville
 
-## [Week 8 - HTML, CSS, JavaScript](https://cs50.harvard.edu/x/2024/weeks/8/)
-- [ ] [Lecture 8](https://video.cs50.io/placeholder)
-- [ ] [Section](https://video.cs50.io/placeholder)
+## Week 8 - HTML, CSS, JavaScript
+- [ ] Lecture 8
+- [ ] Section
 - [ ] Shorts
-- [ ] [Problem Set 8](https://cs50.harvard.edu/x/2024/psets/8/)
-    - [ ] [Trivia](https://cs50.harvard.edu/x/2024/psets/8/trivia/)
-    - [ ] [Homepage](https://cs50.harvard.edu/x/2024/psets/8/homepage/)
+- [ ] Problem Set 8
+    - [ ] Trivia
+    - [ ] Homepage
 
-## [Week 9 - Flask](https://cs50.harvard.edu/x/2024/weeks/9/)
-- [ ] [Lecture 9](https://video.cs50.io/placeholder)
-- [ ] [Section](https://video.cs50.io/placeholder)
+## Week 9 - Flask
+- [ ] Lecture 9
+- [ ] Section
 - [ ] Shorts
-- [ ] [Problem Set 9](https://cs50.harvard.edu/x/2024/psets/9/)
-    - [ ] [Birthdays](https://cs50.harvard.edu/x/2024/psets/9/birthdays/)
-    - [ ] [Finance](https://cs50.harvard.edu/x/2024/psets/9/finance/)
+- [ ] Problem Set 9
+    - [ ] Birthdays
+    - [ ] Finance
 
-## [Week 10 - Cybersecurity](https://cs50.harvard.edu/x/2024/weeks/10/)
-- [ ] [Lecture 10](https://video.cs50.io/placeholder)
+## Week 10 - Cybersecurity
+- [ ] Lecture 10
 
-## [Final Project](https://cs50.harvard.edu/x/2024/final/)
-- [ ] [Project Submission](https://cs50.harvard.edu/x/2024/final/)
+## Final Project
+- [ ] Project Submission
